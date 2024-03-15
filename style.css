@@ -28,6 +28,25 @@
     margin: 0 16px;
     font-size: 24px;
     }
-
+    .escola-imagem {
+        width: 25%;
+        }
+        
+        .Palmeiras-1914 {
+        background-image: linear-gradient(#383D58,#607538);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .palmeiras-1914{
+        padding: 24px 0;
+        }
+        
+        .conteudo{
+        width:35%;
+        }
 
 
